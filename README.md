@@ -27,11 +27,9 @@
 
     보정 결과와 원본 영상을 "Tab"키로 전환할 수 있다.  
     왜곡이 큰 광각 렌즈를 사용하면 변화가 뚜렷하다.
+Rectified)
 ![Screenshot 2024-04-01 at 11 17 02 PM](https://github.com/st-min/Look-the-world-straight-in-the-eye/assets/70586865/4fca1157-a19f-4adb-bdd4-e1fb8769bd9c)
-                                                                
-                                                                        Rectified
                                                                         
+Original)                                                                        
 ![Screenshot 2024-04-01 at 11 16 53 PM](https://github.com/st-min/Look-the-world-straight-in-the-eye/assets/70586865/6ba1fee9-3868-4173-9c8c-146571a348f1)
-
-                                                                        Original
 
