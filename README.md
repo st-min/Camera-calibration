@@ -5,7 +5,7 @@
 1. 카메라를 이용해 다양한 시점에서 체스보드를 촬영한다.
 
 
-2. 촬영한 영상을 읽어서 캘리브레이션 한다.(camera_calibration.py)
+2. 촬영한 영상을 읽어서 캘리브레이션 한다. (camera_calibration.py)
 
         Space: Pause and show corners  
         Enter: Select the image  
@@ -23,7 +23,7 @@
 ![image](https://github.com/st-min/Look-the-world-straight-in-the-eye/assets/70586865/19f6701c-ca8d-4cc5-869e-81bc0eb6d2f8)
 
 <br/>
-4. 카메라 캘리브레이션 결과를 이용해 렌즈 왜곡 보정 수행한다.(distortion_correction.py)  
+4. 카메라 캘리브레이션 결과를 이용해 렌즈 왜곡 보정 수행한다. (distortion_correction.py)  
 
     보정 결과와 원본 영상을 "Tab"키로 전환할 수 있다.  
     왜곡이 큰 광각 렌즈를 사용하면 변화가 뚜렷하다.
