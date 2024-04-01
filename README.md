@@ -8,14 +8,15 @@
 2. 촬영한 영상을 읽어서 캘리브레이션 한다.(camera_calibration.py)
 
     (Space: Pause and show corners
+   
     Enter: Select the image
+   
     ESC: Exit (Complete image selection).
 
     caution!!) You should change it to your - board_pattern = (*, *)
                                            - board_cellsize = 0.0** (**[mm])
    
 ![Screenshot 2024-04-01 at 10 06 18 PM](https://github.com/st-min/Look-the-world-straight-in-the-eye/assets/70586865/57668903-216b-41b1-ac6f-0dbe6e057e2a)
-
 
 (camera_calibration.py ressult example)
 ![image](https://github.com/st-min/Look-the-world-straight-in-the-eye/assets/70586865/19f6701c-ca8d-4cc5-869e-81bc0eb6d2f8)
