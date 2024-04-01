@@ -19,7 +19,7 @@
                                                - board_cellsize = 0.0**  (**[mm])
    
 ![Screenshot 2024-04-01 at 10 06 18 PM](https://github.com/st-min/Look-the-world-straight-in-the-eye/assets/70586865/57668903-216b-41b1-ac6f-0dbe6e057e2a)
-                                                        (camera_calibration.py result example)
+                                                        Camera_calibration.py, Result Example)
 ![image](https://github.com/st-min/Look-the-world-straight-in-the-eye/assets/70586865/19f6701c-ca8d-4cc5-869e-81bc0eb6d2f8)
 
 <br/>
