@@ -7,9 +7,9 @@
 
 2. 촬영한 영상을 읽어서 캘리브레이션 한다.(camera_calibration.py)
 
-        (Space: Pause and show corners  
+        Space: Pause and show corners  
         Enter: Select the image  
-        ESC: Exit (Complete image selection). 
+        ESC: Exit (Complete image selection) 
 
     Caution!!)  
    You should change it to your
