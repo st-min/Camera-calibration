@@ -1,4 +1,4 @@
-#Look-the-world-straight-in-the-eye
+# Look the world straight in the eye!
 ## Camera calibration and Lens distortion correction using OpenCV.
 
 
