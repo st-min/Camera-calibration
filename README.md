@@ -11,7 +11,7 @@
     Enter: Select the image  
     ESC: Exit (Complete image selection). 
 
-    Caution!!)
+    Caution!!)  
    You should change it to your
 
                                                - board_pattern = (*, * )
