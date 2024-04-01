@@ -13,7 +13,9 @@
    
     ESC: Exit (Complete image selection).
 
-    caution!!) You should change it to your - board_pattern = (*, * )
+    caution!!) You should change it to your
+
+                                               - board_pattern = (*, * )
    
                                                - board_cellsize = 0.0**  (**[mm])
    
